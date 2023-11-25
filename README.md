@@ -28,7 +28,7 @@
 
 ## Bugs and Tester
 * Jika kamu menemukan bug jangan lupa buka Issues
-* Info Lebih Lanjut, Chat [owner-yoshino](https://wa.me/6281575886399)
+* Info Lebih Lanjut, Chat [owner-yoshino](https://wa.me/6282121647514)
 
 # Requirements
 * [Node.js](https://nodejs.org/en/)
@@ -40,8 +40,8 @@
 termux-setup-storage
 apt update && apt upgrade
 pkg install nodejs git ffmpeg libwebp imagemagick
-git clone https://github.com/riycoders/YoshinoBot.git
-cd YoshinoBot
+git clone https://github.com/Deankim7/Superbot.git
+cd Superbot
 pkg install yarn
 yarn
 node index.js --qr (jika ingin menggunakan kode qr)
@@ -52,23 +52,23 @@ node index.js --code (jika ingin menggunakan otp)
 `./config.json`
 ```ts
 {
-  "ownerNumber": "0@s.whatsapp.net",
-  "ownerName": "rc",
-  "botName": "Yoshino Bot",
+  "ownerNumber": "082121647514@s.whatsapp.net",
+  "ownerName": "Dean",
+  "botName": "Superbot",
   "packname": "follow",
-  "author": "@riycoders",
+  "author": "@deankim",
   "pathimg": "./media/yoshino.jpg",
   "apikey": {
     "caliph": ""
   },
   "hmm": {
-    "yt": "https://youtube.com/@riycoders",
-    "ig": "https://instagram.com/riycoders",
+    "yt": "https://youtube.com/@Deankim_7",
+    "ig": "https://instagram.com/lzx.dean_rerly",
     "linkmenu": "https://chat.whatsapp.com/KShSydBXuPBIx0eeWgl7gY"
   },
   "donasi": {
-	"dana": "081575886399",
-	"gopay": "081575886399"
+	"dana": "082121647514",
+	"gopay": "082121647514"
   },
   "gamewaktu": 90,
   "limitCount": 25,
